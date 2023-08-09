@@ -126,7 +126,7 @@ export const managers = [
 
       "bio": "Trying our best",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/mer.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
 
