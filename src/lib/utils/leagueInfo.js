@@ -216,7 +216,7 @@ export const managers = [
 
       "location": "Coulommiers, France", // (optional)
 
-      "bio": "From the verdant fields of northern France to the football fields of the new world, THE ANDRES THE GIANTS have found nonperil success as immense as themselves in their every athletic venture. In fact, they're just so good, this team of semi-retired pro wrestlers was winning championships well before they realized this was american football. Helmed by renowned fantasy coach Frank "Vizzini" Desiderio, this all star lineup is such a *world* class act, you'll be honored to watch your team serve as their pavement. Anybody want a peanut?",
+      "bio": "Froment. Anybody want a peanut?",
 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 
