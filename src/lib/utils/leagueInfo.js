@@ -122,21 +122,21 @@ export const managers = [
 
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
-      "location": "Brooklyn", // (optional)
+      "location": "Allentown", // (optional)
 
-      "bio": "Lorem ipsum...",
+      "bio": "Trying our best",
 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
 
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
 
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
 
       "rival": {
 
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Sam", // Can be anything (usually your rival's name)
 
         link: 6, // manager array number within this array, or null to link back to all managers page
 
@@ -144,15 +144,15 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 2227, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
-      "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+      "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
 
-      "philosophy": "Your fantasy team's philosophy", // (optional)
+      "philosophy": "Wait until the absolute last minute to set my line up and go with what feels right.", // (optional)
 
-      "tradingScale": 10, // 1 - 10 (optional)
+      "tradingScale": 1, // 1 - 10 (optional)
 
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 
@@ -168,21 +168,21 @@ export const managers = [
 
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
-      "location": "Brooklyn", // (optional)
+      "location": "PA", // (optional)
 
-      "bio": "Lorem ipsum...",
+      "bio": "Strong QB/RB...weak WR. May be my downfall.",
 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
 
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
 
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
 
       "rival": {
 
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Dad", // Can be anything (usually your rival's name)
 
         link: 6, // manager array number within this array, or null to link back to all managers page
 
@@ -190,15 +190,15 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4866, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
 
-      "philosophy": "Your fantasy team's philosophy", // (optional)
+      "philosophy": "Will trade for a WR", // (optional)
 
-      "tradingScale": 10, // 1 - 10 (optional)
+      "tradingScale": 6, // 1 - 10 (optional)
 
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 
@@ -212,23 +212,23 @@ export const managers = [
 
       "name": "Frank Desiderio",
 
-      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2013, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
-      "location": "Brooklyn", // (optional)
+      "location": "Coulommiers, France", // (optional)
 
-      "bio": "Lorem ipsum...",
+      "bio": "From the verdant fields of northern France to the football fields of the new world, THE ANDRES THE GIANTS have found nonperil success as immense as themselves in their every athletic venture. In fact, they're just so good, this team of semi-retired pro wrestlers was winning championships well before they realized this was american football. Helmed by renowned fantasy coach Frank "Vizzini" Desiderio, this all star lineup is such a *world* class act, you'll be honored to watch your team serve as their pavement. Anybody want a peanut?",
 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
 
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
 
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
 
       "rival": {
 
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Melissa", // Can be anything (usually your rival's name)
 
         link: 6, // manager array number within this array, or null to link back to all managers page
 
@@ -236,15 +236,15 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 9225, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
 
-      "philosophy": "Your fantasy team's philosophy", // (optional)
+      "philosophy": "Show me someone who says winning isn't everything and I'll show you a loser.", // (optional)
 
-      "tradingScale": 10, // 1 - 10 (optional)
+      "tradingScale": 3, // 1 - 10 (optional)
 
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 
