@@ -218,7 +218,7 @@ export const managers = [
 
       "bio": "From the fields of northern France to the football fields of the New World, THE ANDRES THE GIANTS have found nonpareil success as immense as themselves in their every athletic venture.Helmed by renowned fantasy coach Frank “Vizzini” Desiderio, this all star lineup is such a *world* class act, you’ll be honored to watch your team serve as their pavement",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/frank.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
 
@@ -278,7 +278,7 @@ export const managers = [
 
         link: 6, // manager array number within this array, or null to link back to all managers page
 
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/frank.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
       },
 
@@ -324,7 +324,7 @@ export const managers = [
 
         link: 4, // manager array number within this array, or null to link back to all managers page
 
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/frank.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
       },
 
