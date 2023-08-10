@@ -80,7 +80,7 @@ export const managers = [
 
      "bio": "Profit is sweet, even if it comes from deception",
 
-     "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+     "photo": "/managers/matt.jpg", // square ratio recommended (no larger than 500x500)
 
      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 
@@ -94,7 +94,7 @@ export const managers = [
 
        link: 6, // manager array number within this array, or null to link back to all managers page
 
-       image: "/managers/matt.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+       image: "/managers/sam.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
      },
 
