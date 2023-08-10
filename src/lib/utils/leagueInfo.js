@@ -34,7 +34,7 @@ export const managers = [
 
      "bio": "Just a couple guys bein dudes",
 
-     "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+     "photo": "/managers/sam.jpg", // square ratio recommended (no larger than 500x500)
 
      "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
 
@@ -310,7 +310,7 @@ export const managers = [
 
       "bio": "A little confused but trying my best ",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/tyler.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
 
@@ -398,15 +398,15 @@ export const managers = [
 
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
-      "location": "Brooklyn", // (optional)
+      "location": "West Chester", // (optional)
 
-      "bio": "Lorem ipsum...",
+      "bio": "",
 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
 
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
 
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
 
@@ -494,7 +494,7 @@ export const managers = [
 
       "bio": "Draft suspended now to suspend the pain on my opponents later.",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/andy.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
 
@@ -538,9 +538,9 @@ export const managers = [
 
       "location": "Allentown", // (optional)
 
-      "bio": "Lorem ipsum...",
+      "bio": "Defense and Blood make Champions",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/dad.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
 
@@ -564,9 +564,9 @@ export const managers = [
 
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
 
-      "philosophy": "Your fantasy team's philosophy", // (optional)
+      "philosophy": "Hit them harder then they hit you. Make them fear you.", // (optional)
 
-      "tradingScale": 5, // 1 - 10 (optional)
+      "tradingScale": 0, // 1 - 10 (optional)
 
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 
