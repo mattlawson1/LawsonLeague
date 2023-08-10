@@ -356,7 +356,7 @@ export const managers = [
 
       "bio": "A bunch of hungry dawgs that are gonna play in the trenches",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/skylar.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2020, // (optional) when did the manager start playing fantasy football
 
