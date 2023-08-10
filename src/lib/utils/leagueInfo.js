@@ -282,7 +282,7 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 10902, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
@@ -308,7 +308,7 @@ export const managers = [
 
       "location": "My Couch - PA", // (optional)
 
-      "bio": "A little confused but trying my best ",
+      "bio": "A little confused but trying my best",
 
       "photo": "/managers/tyler.jpg", // square ratio recommended (no larger than 500x500)
 
