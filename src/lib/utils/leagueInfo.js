@@ -46,7 +46,7 @@ export const managers = [
 
        name: "Matt", // Can be anything (usually your rival's name)
 
-       link: 6, // manager array number within this array, or null to link back to all managers page
+       link: 2, // manager array number within this array, or null to link back to all managers page
 
        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -92,7 +92,7 @@ export const managers = [
 
        name: "Sam", // Can be anything (usually your rival's name)
 
-       link: 6, // manager array number within this array, or null to link back to all managers page
+       link: 1, // manager array number within this array, or null to link back to all managers page
 
        image: "/managers/sam.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -138,7 +138,7 @@ export const managers = [
 
         name: "Sam", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: 1, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/sam.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -184,7 +184,7 @@ export const managers = [
 
         name: "Dad", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: 12, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/dad.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -276,7 +276,7 @@ export const managers = [
 
         name: "Frank", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: 5, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/frank.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -322,7 +322,7 @@ export const managers = [
 
         name: "Frank", // Can be anything (usually your rival's name)
 
-        link: 4, // manager array number within this array, or null to link back to all managers page
+        link: 5, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/frank.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -368,7 +368,7 @@ export const managers = [
 
         name: "Julia", // Can be anything (usually your rival's name)
 
-        link: 8, // manager array number within this array, or null to link back to all managers page
+        link: 9, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/julia.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -414,7 +414,7 @@ export const managers = [
 
         name: "Skylar", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: 8, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/skylar.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -466,7 +466,7 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 2180, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
@@ -552,7 +552,7 @@ export const managers = [
 
         name: "Mom", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: 4, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/mom.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
