@@ -236,7 +236,7 @@ export const managers = [
 
       },
 
-      "favoritePlayer": 9225, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4017, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
