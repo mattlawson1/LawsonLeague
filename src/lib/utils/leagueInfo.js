@@ -48,7 +48,7 @@ export const managers = [
 
        link: 2, // manager array number within this array, or null to link back to all managers page
 
-       image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+       image: "/managers/matt.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
      },
 
