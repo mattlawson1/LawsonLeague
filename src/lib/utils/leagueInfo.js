@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Patty's Pub Fantasy Football Website! Here you can check out power rankings, news, blogs (coming soon), manager pages (coming soon), rivalries, records, matchups, and more!.</p>
+  <p>Welcome to the Patty's Pub Fantasy Football Website! Here you can check out power rankings, news, blogs, manager pages, rivalries, records, matchups, and more!.</p>
 `;
 
 /*   STEP 3   */
@@ -46,7 +46,7 @@ export const managers = [
 
        name: "Matt", // Can be anything (usually your rival's name)
 
-       link: 2, // manager array number within this array, or null to link back to all managers page
+       link: 3, // manager array number within this array, or null to link back to all managers page
 
        image: "/managers/matt.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
@@ -460,7 +460,7 @@ export const managers = [
 
         name: "Everyone", // Can be anything (usually your rival's name)
 
-        link: 6, // manager array number within this array, or null to link back to all managers page
+        link: null, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
