@@ -232,7 +232,7 @@ export const managers = [
 
         link: 6, // manager array number within this array, or null to link back to all managers page
 
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/melissa.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
       },
 
@@ -264,7 +264,7 @@ export const managers = [
 
       "bio": "I'm too cool to write a bio",
 
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/melissa.jpg", // square ratio recommended (no larger than 500x500)
 
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
 
