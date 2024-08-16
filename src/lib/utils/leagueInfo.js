@@ -350,11 +350,11 @@ export const managers = [
 
       "name": "Kevin Bolick",
 
-      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2024, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
       "location": "Georgia", // (optional)
 
-      "bio": "I am here.",
+      "bio": "Let us get lickin.",
 
       "photo": "/managers/skylar.jpg", // square ratio recommended (no larger than 500x500)
 
@@ -366,7 +366,7 @@ export const managers = [
 
       "rival": {
 
-        name: "Meredith", // Can be anything (usually your rival's name)
+        name: "Andy", // Can be anything (usually your rival's name)
 
         link: 2, // manager array number within this array, or null to link back to all managers page
 
@@ -376,11 +376,11 @@ export const managers = [
 
       "favoritePlayer": 4217, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
 
-      "philosophy": "L", // (optional)
+      "philosophy": "Have a sack", // (optional)
 
       "tradingScale": 10, // 1 - 10 (optional)
 
@@ -398,7 +398,7 @@ export const managers = [
 
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 
-      "location": "West Chester", // (optional)
+      "location": "Philadelphia", // (optional)
 
       "bio": "The bigger the better",
 
@@ -412,7 +412,7 @@ export const managers = [
 
       "rival": {
 
-        name: "Skylar", // Can be anything (usually your rival's name)
+        name: "Meredith", // Can be anything (usually your rival's name)
 
         link: 8, // manager array number within this array, or null to link back to all managers page
 
