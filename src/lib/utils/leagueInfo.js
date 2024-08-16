@@ -460,7 +460,7 @@ export const managers = [
 
         name: "Everyone", // Can be anything (usually your rival's name)
 
-        link: null, // manager array number within this array, or null to link back to all managers page
+        link: 1, // manager array number within this array, or null to link back to all managers page
 
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
 
