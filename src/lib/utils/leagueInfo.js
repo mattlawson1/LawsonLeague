@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Patty's Pub Fantasy Football Website! Here you can check out power rankings, news, blogs, manager pages, rivalries, records, matchups, and more!.</p>
+  <p>Welcome to the Lawson Fantasy Football Website! Here you can check out power rankings, news, blogs, manager pages, rivalries, records, matchups, and more!.</p>
 `;
 
 /*   STEP 3   */
